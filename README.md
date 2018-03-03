@@ -1,5 +1,5 @@
 # SCRN
-## Structurally Constrained 
+## Regularized Structurally Constrained Recurrent neural networks
 Code for the Syl-Concat, Syl-Sum, and Syl-CNN models from the paper [Syllable-aware Neural Language Models: A Failure to Beat Character-aware Ones](https://arxiv.org/abs/1707.06480) (EMNLP 2017)
 
 ### Requirements
